@@ -1,0 +1,10 @@
+C:\DEV\XAM160\ex1\People\People\People\bin\Debug\netstandard2.0\People.deps.json
+C:\DEV\XAM160\ex1\People\People\People\bin\Debug\netstandard2.0\People.dll
+C:\DEV\XAM160\ex1\People\People\People\bin\Debug\netstandard2.0\People.pdb
+C:\DEV\XAM160\ex1\People\People\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\DEV\XAM160\ex1\People\People\People\obj\Debug\netstandard2.0\People.App.xaml.g.cs
+C:\DEV\XAM160\ex1\People\People\People\obj\Debug\netstandard2.0\People.MainPage.xaml.g.cs
+C:\DEV\XAM160\ex1\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\DEV\XAM160\ex1\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\DEV\XAM160\ex1\People\People\People\obj\Debug\netstandard2.0\People.dll
+C:\DEV\XAM160\ex1\People\People\People\obj\Debug\netstandard2.0\People.pdb
